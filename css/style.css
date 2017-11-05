@@ -1,0 +1,13 @@
+.wrapper {
+	overflow: hidden;
+	position: relative;
+}
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+header .section-overlay {
+	background-color: #296365;
+	opacity: 0.8;
+}
